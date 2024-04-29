@@ -5,6 +5,7 @@
 .contain-2 {
     color: blue;
     text-align: left;
+    margin-top: 0%;
 }
 
 @media only screen and (min-width: 1024px) {
@@ -53,7 +54,7 @@
     float: left;
     width: 15%;
     padding: 10px;
-    height: 300px;
+    height: 250px;
     color: blue;
     box-sizing: border-box;
     border: 1px solid blue;
@@ -63,7 +64,7 @@
     float: left;
     width: 40%;
     padding: 10px;
-    height: 300px;
+    height: 250px;
     color: blue;
     box-sizing: border-box;
     border: 1px solid blue;
@@ -73,7 +74,7 @@
     float: left;
     width: 15%;
     padding: 10px;
-    height: 300px;
+    height: 250px;
     color: blue;
     box-sizing: border-box;
     border: 1px solid blue;
@@ -83,7 +84,7 @@
     float: left;
     width: 30%;
     padding: 10px;
-    height: 300px;
+    height: 250px;
     color: blue;
     box-sizing: border-box;
     border: 1px solid blue;
@@ -92,7 +93,7 @@
 .column-amount{
     float: left;
     width: 35%;
-    height: 35px;
+    height: 55px;
     color: blue;
     box-sizing: border-box;
     border: 1px solid;
@@ -101,7 +102,7 @@
 .column-table{
     float: left;
     width: 20%;
-    height: 35px;
+    height: 55px;
     color: blue;
     box-sizing: border-box;
     border: 1px solid;
@@ -110,7 +111,7 @@
 .column-blank{
     float: left;
     width: 45%;
-    height: 35px;
+    height: 55px;
     color: blue;
     box-sizing: border-box;
     border: 1px solid;
@@ -119,7 +120,7 @@
 .column-1 {
     float: left;
     width: 35%;
-    height: 45px;
+    height: 55px;
     color: blue;
     box-sizing: border-box;
 }
@@ -127,7 +128,7 @@
 .column-2{
     float: left;
     width: 20%;
-    height: 45px;
+    height: 55px;
     color: blue;
     box-sizing: border-box;
     border: 1px solid blue;
@@ -136,7 +137,7 @@
 .column-3{
     float: left;
     width: 45%;
-    height: 45px;
+    height: 55px;
     color: blue;
     box-sizing: border-box;
     border: 1px solid blue;
